@@ -1,0 +1,11 @@
+#red-box {
+    width: 150px;
+    height: 150px;
+    background-color: red;
+    transition: 0.3s;
+}
+
+#red-box:hover {
+    width: calc(150*2px);
+    height: calc(150*2px);
+}

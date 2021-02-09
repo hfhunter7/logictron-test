@@ -1,0 +1,9 @@
+#fade-btn {
+    background-color: red;
+    transition: 0.7s;
+}
+
+#fade-btn:hover {
+    background-color: green;
+    color: white;
+}

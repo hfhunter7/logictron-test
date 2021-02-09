@@ -1,0 +1,7 @@
+#parent{
+    font-size: 20px;
+}
+
+#child{
+    font-size: inherit;
+}

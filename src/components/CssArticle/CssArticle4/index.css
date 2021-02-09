@@ -1,0 +1,7 @@
+#bg-box {
+    background-image: url("/src/images/bg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 300px;
+    width: 300px;
+}

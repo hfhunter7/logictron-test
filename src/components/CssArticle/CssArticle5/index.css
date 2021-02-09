@@ -1,0 +1,19 @@
+#blue-circle {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: blue;
+    animation: circlemove 5s infinite;
+    position: absolute;
+}
+
+@keyframes circlemove {
+    0%,
+    100% {
+        left: 0;
+    }
+
+    50% {
+        left: 100%;
+    }
+}

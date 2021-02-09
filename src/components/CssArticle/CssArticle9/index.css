@@ -1,0 +1,41 @@
+#green-box{
+    width: 150px;
+    height: 150px;
+    background-color: green;
+}
+
+#red-box-9{
+    width: 150px;
+    height: 150px;
+    background-color: red;
+}
+
+#blue-box{
+    width: 150px;
+    height: 150px;
+    background-color: blue;
+}
+
+#main-div-start{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+#main-div-center{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+#main-div-end{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+#main-box{
+    padding: 5px;
+    border: 1px solid;
+    width: 465px;
+}

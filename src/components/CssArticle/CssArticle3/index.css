@@ -1,0 +1,23 @@
+@media screen and (min-width: 0px) and (max-width: 512px) {
+    #response-box {
+        background-color: green;
+        height: 100vh;
+        width: auto;
+    }
+}
+
+@media screen and (min-width: 512px) and (max-width: 720px) {
+    #response-box {
+        background-color: purple;
+        height: 100vh;
+        width: auto;
+    }
+}
+
+@media screen and (min-width: 720px) {
+    #response-box {
+        background-color: skyblue;
+        height: 100vh;
+        width: auto;
+    }
+}
