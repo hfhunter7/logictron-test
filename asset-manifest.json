@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/hfhunter7.github.io/logictron-test/static/css/main.7175bf99.chunk.css",
-    "main.js": "/hfhunter7.github.io/logictron-test/static/js/main.d024dc91.chunk.js",
-    "main.js.map": "/hfhunter7.github.io/logictron-test/static/js/main.d024dc91.chunk.js.map",
-    "runtime-main.js": "/hfhunter7.github.io/logictron-test/static/js/runtime-main.50bfe5b9.js",
-    "runtime-main.js.map": "/hfhunter7.github.io/logictron-test/static/js/runtime-main.50bfe5b9.js.map",
-    "static/css/2.150d169a.chunk.css": "/hfhunter7.github.io/logictron-test/static/css/2.150d169a.chunk.css",
-    "static/js/2.74ea569c.chunk.js": "/hfhunter7.github.io/logictron-test/static/js/2.74ea569c.chunk.js",
-    "static/js/2.74ea569c.chunk.js.map": "/hfhunter7.github.io/logictron-test/static/js/2.74ea569c.chunk.js.map",
-    "static/js/3.83f52855.chunk.js": "/hfhunter7.github.io/logictron-test/static/js/3.83f52855.chunk.js",
-    "static/js/3.83f52855.chunk.js.map": "/hfhunter7.github.io/logictron-test/static/js/3.83f52855.chunk.js.map",
-    "index.html": "/hfhunter7.github.io/logictron-test/index.html",
-    "static/css/2.150d169a.chunk.css.map": "/hfhunter7.github.io/logictron-test/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.7175bf99.chunk.css.map": "/hfhunter7.github.io/logictron-test/static/css/main.7175bf99.chunk.css.map",
-    "static/js/2.74ea569c.chunk.js.LICENSE.txt": "/hfhunter7.github.io/logictron-test/static/js/2.74ea569c.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/hfhunter7.github.io/logictron-test/static/media/bg.fbcf5e11.jpg"
+    "main.css": "/logictron-test/static/css/main.640f7e18.chunk.css",
+    "main.js": "/logictron-test/static/js/main.d024dc91.chunk.js",
+    "main.js.map": "/logictron-test/static/js/main.d024dc91.chunk.js.map",
+    "runtime-main.js": "/logictron-test/static/js/runtime-main.6abb4941.js",
+    "runtime-main.js.map": "/logictron-test/static/js/runtime-main.6abb4941.js.map",
+    "static/css/2.150d169a.chunk.css": "/logictron-test/static/css/2.150d169a.chunk.css",
+    "static/js/2.74ea569c.chunk.js": "/logictron-test/static/js/2.74ea569c.chunk.js",
+    "static/js/2.74ea569c.chunk.js.map": "/logictron-test/static/js/2.74ea569c.chunk.js.map",
+    "static/js/3.83f52855.chunk.js": "/logictron-test/static/js/3.83f52855.chunk.js",
+    "static/js/3.83f52855.chunk.js.map": "/logictron-test/static/js/3.83f52855.chunk.js.map",
+    "index.html": "/logictron-test/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/logictron-test/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.640f7e18.chunk.css.map": "/logictron-test/static/css/main.640f7e18.chunk.css.map",
+    "static/js/2.74ea569c.chunk.js.LICENSE.txt": "/logictron-test/static/js/2.74ea569c.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/logictron-test/static/media/bg.fbcf5e11.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.50bfe5b9.js",
+    "static/js/runtime-main.6abb4941.js",
     "static/css/2.150d169a.chunk.css",
     "static/js/2.74ea569c.chunk.js",
-    "static/css/main.7175bf99.chunk.css",
+    "static/css/main.640f7e18.chunk.css",
     "static/js/main.d024dc91.chunk.js"
   ]
 }
