@@ -4,7 +4,7 @@ import './index.css'
 const CssArticle2 = ( props ) => {
   return (
     <>
-      <div id="red-box" />
+      <div id="red-box-2" />
     </>
   )
 };

@@ -1,7 +1,6 @@
 import React from 'react';
 import { Container } from 'react-bootstrap';
 import { useParams } from 'react-router-dom'
-import './index.css'
 import CssArticle2 from './CssArticle2';
 import CssArticle3 from './CssArticle3';
 import CssArticle4 from './CssArticle4';

@@ -1,13 +1,14 @@
 import React, { Component } from 'react'
 import { Switch, Route, BrowserRouter as Router, Link } from 'react-router-dom'
 import CssArticle from './components/CssArticle';
+import JsArticle from './components/JsArticle';
 import Home from './pages/Home';
 import './App.css'
 
 class App extends Component {
   render() {
     return (
-      <Router>
+      <Router basename="/logictron-test">
         <ul>
           <li>
             <Link to="/">Home</Link>
@@ -20,6 +21,9 @@ class App extends Component {
           </Route>
           <Route path="/css/article/:id">
             <CssArticle />
+          </Route>
+          <Route path="/js/article/:id">
+            <JsArticle />
           </Route>
         </Switch>
       </Router>

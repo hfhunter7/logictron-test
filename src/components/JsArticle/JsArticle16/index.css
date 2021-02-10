@@ -1,0 +1,31 @@
+#article-16-red-box{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+
+.box-move {
+    animation: boxmove 8s forwards;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+
+@keyframes boxmove {
+    0%,100% {
+        left: 0px;
+        top: 0px;
+    }
+    32.5% {
+        left: 150px;
+        top: 0px;
+    }
+    43.5% {
+        left: 150px;
+        top: 150px;
+    }
+    55%{
+        left: 0px;
+        top: 150px;
+    }
+}
